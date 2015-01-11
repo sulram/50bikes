@@ -2,6 +2,7 @@
 =======
 
 acessório para roda de bicicleta se transformar num painel de led móvel, através da persistência da visão
+http://marlus.com/projetos/50bikes.html
 
 ### Projetos similares (alguns super hightech)
 
